@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1555389234 source:/home/mayank_sati/cplus_plus/class_play/calci.cpp
+	"calci.h"
+	<iostream>
+
+1555329603 /home/mayank_sati/cplus_plus/class_play/calci.h
+
+1555330614 source:/home/mayank_sati/cplus_plus/class_play/main.cpp
+	<iostream>
+	"calci.h"
+
+1555389234 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/class_play/calci.cpp
+	"calci.h"
+	<iostream>
+
+1555329603 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/class_play/calci.h
+
+1555493460 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/class_play/main.cpp
+	<iostream>
+	"calci.h"
+
+1555389234 source:/home/mayank_s/cplus_plus/bucky/class_play/calci.cpp
+	"calci.h"
+	<iostream>
+
+1555329603 /home/mayank_s/cplus_plus/bucky/class_play/calci.h
+
+1555493460 source:/home/mayank_s/cplus_plus/bucky/class_play/main.cpp
+	<iostream>
+	"calci.h"
+

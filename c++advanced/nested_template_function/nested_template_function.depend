@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579001610 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/c++advanced/nested_template_function/main.cpp
+	<iostream>
+	"ring.h"
+
+1579002204 /media/mayank_sati/DATA/mayank_data/cplus_plus/c++advanced/nested_template_function/ring.h
+	<iostream>
+

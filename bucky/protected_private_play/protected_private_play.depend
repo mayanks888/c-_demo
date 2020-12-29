@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1555672473 source:/home/mayank_sati/cplus_plus/protected_private_play/main.cpp
+	<iostream>
+	"prot_play_class.h"
+	"parent_class.h"
+
+1555672465 /home/mayank_sati/cplus_plus/protected_private_play/prot_play_class.h
+	"parent_class.h"
+
+1555673405 /home/mayank_sati/cplus_plus/protected_private_play/parent_class.h
+
+1555673082 source:/home/mayank_sati/cplus_plus/protected_private_play/parent_class.cpp
+	"parent_class.h"
+	<iostream>
+	"prot_play_class.h"
+
+1555672426 source:/home/mayank_sati/cplus_plus/protected_private_play/prot_play_class.cpp
+	"prot_play_class.h"
+	<iostream>
+
+1555672473 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/protected_private_play/main.cpp
+	<iostream>
+	"prot_play_class.h"
+	"parent_class.h"
+
+1555672465 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/protected_private_play/prot_play_class.h
+	"parent_class.h"
+
+1555673405 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/protected_private_play/parent_class.h
+
+1555673082 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/protected_private_play/parent_class.cpp
+	"parent_class.h"
+	<iostream>
+	"prot_play_class.h"
+
+1555672426 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/protected_private_play/prot_play_class.cpp
+	"prot_play_class.h"
+	<iostream>
+

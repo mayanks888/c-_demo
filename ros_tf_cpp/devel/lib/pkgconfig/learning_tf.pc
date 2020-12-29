@@ -1,0 +1,8 @@
+prefix=/media/mayank_sati/DATA/mayank_data/cplus_plus/ros_tf_cpp/devel
+
+Name: learning_tf
+Description: Description of learning_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L/media/mayank_sati/DATA/mayank_data/cplus_plus/ros_tf_cpp/devel/lib 
+Requires: 

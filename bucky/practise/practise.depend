@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1555323846 source:/home/mayank_sati/cplus_plus/practise/main.cpp
+	<iostream>
+	"test.h"
+	"learning_class.h"
+
+1555323846 /home/mayank_sati/cplus_plus/practise/test.h
+	<iostream>
+
+1555321978 source:/home/mayank_sati/cplus_plus/practise/test.cpp
+	<iostream>
+	"test.h"
+
+1555323870 /home/mayank_sati/cplus_plus/practise/include/learning_class.h
+
+1555323846 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/practise/test.cpp
+	<iostream>
+	"test.h"
+
+1555323846 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/practise/test.h
+	<iostream>
+

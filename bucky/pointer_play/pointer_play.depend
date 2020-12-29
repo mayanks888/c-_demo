@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1555664304 source:/home/mayank_sati/cplus_plus/pointer_play/main.cpp
+	<iostream>
+	"class_2.h"
+	"memberfunction.h"
+
+1555664072 source:/home/mayank_sati/cplus_plus/pointer_play/class_2.cpp
+	"class_2.h"
+	<iostream>
+
+1555664057 /home/mayank_sati/cplus_plus/pointer_play/class_2.h
+
+1555664190 /home/mayank_sati/cplus_plus/pointer_play/memberfunction.h
+
+1555664072 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/pointer_play/class_2.cpp
+	"class_2.h"
+	<iostream>
+
+1555664057 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/pointer_play/class_2.h
+
+1555664319 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/pointer_play/memberfunction.cpp
+	"memberfunction.h"
+	"class_2.h"
+	<iostream>
+
+1555664190 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/pointer_play/memberfunction.h
+
+1555922387 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/pointer_play/main.cpp
+	<iostream>
+	"class_2.h"
+	"memberfunction.h"
+

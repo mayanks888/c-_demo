@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1555671590 source:/home/mayank_sati/cplus_plus/multiclass/birthday.cpp
+	"birthday.h"
+	<iostream>
+
+1555671723 /home/mayank_sati/cplus_plus/multiclass/birthday.h
+
+1555668906 source:/home/mayank_sati/cplus_plus/multiclass/main.cpp
+	<iostream>
+	"people.h"
+	"birthday.h"
+
+1555668971 /home/mayank_sati/cplus_plus/multiclass/people.h
+	<string>
+	"birthday.h"
+
+1555669002 source:/home/mayank_sati/cplus_plus/multiclass/people.cpp
+	"people.h"
+	<iostream>
+
+1555671590 source:/home/mayank_sati/cplus_plus/bucky/multiclass/birthday.cpp
+	"birthday.h"
+	<iostream>
+
+1555671723 /home/mayank_sati/cplus_plus/bucky/multiclass/birthday.h
+
+1555671803 source:/home/mayank_sati/cplus_plus/bucky/multiclass/main.cpp
+	<iostream>
+	"people.h"
+	"birthday.h"
+
+1555668971 /home/mayank_sati/cplus_plus/bucky/multiclass/people.h
+	<string>
+	"birthday.h"
+
+1555669002 source:/home/mayank_sati/cplus_plus/bucky/multiclass/people.cpp
+	"people.h"
+	<iostream>
+
+1578473176 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/multiclass/birthday.cpp
+	"birthday.h"
+	<iostream>
+
+1555671723 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/multiclass/birthday.h
+
+1555671803 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/multiclass/main.cpp
+	<iostream>
+	"people.h"
+	"birthday.h"
+
+1555668971 /media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/multiclass/people.h
+	<string>
+	"birthday.h"
+
+1555669002 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/bucky/multiclass/people.cpp
+	"people.h"
+	<iostream>
+

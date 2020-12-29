@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578393564 source:/media/mayank_sati/DATA/mayank_data/cplus_plus/header_cpp_files_prac/main.cpp
+	<iostream>
+	"header_Check.h"
+
+1578391504 /media/mayank_sati/DATA/mayank_data/cplus_plus/header_cpp_files_prac/check_header.h
+
+1578393643 /media/mayank_sati/DATA/mayank_data/cplus_plus/header_cpp_files_prac/header_Check.h
+
