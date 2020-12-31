@@ -30,3 +30,21 @@
 	"class_2.h"
 	"memberfunction.h"
 
+1555922387 source:/home/mayank_s/codebase/cplus_plus/cplus_plus_demo/bucky/pointer_play/main.cpp
+	<iostream>
+	"class_2.h"
+	"memberfunction.h"
+
+1555664057 /home/mayank_s/codebase/cplus_plus/cplus_plus_demo/bucky/pointer_play/class_2.h
+
+1555664190 /home/mayank_s/codebase/cplus_plus/cplus_plus_demo/bucky/pointer_play/memberfunction.h
+
+1555664072 source:/home/mayank_s/codebase/cplus_plus/cplus_plus_demo/bucky/pointer_play/class_2.cpp
+	"class_2.h"
+	<iostream>
+
+1555664319 source:/home/mayank_s/codebase/cplus_plus/cplus_plus_demo/bucky/pointer_play/memberfunction.cpp
+	"memberfunction.h"
+	"class_2.h"
+	<iostream>
+

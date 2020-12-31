@@ -9,6 +9,8 @@ calci::calci(int passed_name)//binary scope resultion operator
   cout<<"first constuct created"<<endl;
   name_p=passed_name;
   cout<<"first name passed "<<name_p<<endl;
+  cout<<"first name passed "<<this->name_p<<endl; //printint val with different methods its means this-> direct to current object
+  cout<<"first name passed "<<(*this).name_p<<endl; //printing val with another methods
 
 }
 

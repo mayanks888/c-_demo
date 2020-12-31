@@ -5,7 +5,6 @@ using namespace std;
 class employee{
     protected:
         string name;
-
     public:
     employee(){
     }
@@ -25,7 +24,7 @@ class new_joinee: public employee{
  string new_joinne_name;
 
  public:
-
+//this is constructor
  new_joinee(string new_joinne_name){
     this->new_joinne_name=new_joinne_name;
  }

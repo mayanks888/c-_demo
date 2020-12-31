@@ -16,7 +16,6 @@ public:
 };
 
 int data=76;
-
 int main()
 {
     may m("mayank");
