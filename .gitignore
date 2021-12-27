@@ -19,6 +19,7 @@ domain_id
 *.tar
 *.json
 *.cmake
+*.vscode
 Annotation tool V2.2/logs/
 Annotation_tool_V3/logs/
 Machine_learning/Python/Ros/catkin_workspace/
