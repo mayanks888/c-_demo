@@ -16,6 +16,11 @@ public:
         stk = new T[size];
         top = -1;
     }
+    ~stack()
+    {
+        cout << "deconstructor is called" << endl;
+        delete[] stk;
+    }
     void push(T);
     T pop();
 };
